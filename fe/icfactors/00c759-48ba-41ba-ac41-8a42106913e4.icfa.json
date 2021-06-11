@@ -53,24 +53,9 @@
         "value": 0.999885273625053
     },
     "CDD": {
-        "error": 0.0011515867907755696,
+        "error": 0.0008048570973791921,
         "fit": "Bracketing Interpolate",
         "references": [
-            {
-                "exclude": "ok",
-                "record_id": "a-01-A-1035",
-                "uuid": "e8008805-e13c-4b12-9282-894c9eefa060"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-01-A-1036",
-                "uuid": "0c87e485-7cef-45fe-a7a3-d65ba9d7a0db"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-01-A-1037",
-                "uuid": "f5e79452-0565-4357-b207-c053f8d7037d"
-            },
             {
                 "exclude": "ok",
                 "record_id": "a-01-A-1038",
@@ -85,10 +70,40 @@
                 "exclude": "ok",
                 "record_id": "a-01-A-1040",
                 "uuid": "1591c79d-2ab4-4cd4-9445-df909df1cdee"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1041",
+                "uuid": "065592a3-40bb-4969-8295-8622fc0adee1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1042",
+                "uuid": "ed145660-ef27-4d09-8ee8-d7b08d49880b"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1043",
+                "uuid": "a02693e2-3dd1-4dfd-bfab-692a79e6c015"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1044",
+                "uuid": "850ec5a3-b214-415f-ac53-6f6366fdb166"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1045",
+                "uuid": "188960d6-cdaa-410b-b2c3-9ae6881cc0d3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1046",
+                "uuid": "eadac458-c44c-4164-a93b-643420bb25bf"
             }
         ],
         "reviewed": true,
-        "value": 1.021270130698864
+        "value": 1.021177814336084
     },
     "H1": {
         "error": 0.0,
